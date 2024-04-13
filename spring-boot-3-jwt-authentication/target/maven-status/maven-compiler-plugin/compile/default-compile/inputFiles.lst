@@ -1,0 +1,17 @@
+C:\Users\badre\OneDrive\Bureau\PFE_BCP\spring-boot-3-jwt-authentication\spring-boot-3-jwt-authentication\src\main\java\com\example\springboot3jwtauthentication\dto\SignInRequest.java
+C:\Users\badre\OneDrive\Bureau\PFE_BCP\spring-boot-3-jwt-authentication\spring-boot-3-jwt-authentication\src\main\java\com\example\springboot3jwtauthentication\models\User.java
+C:\Users\badre\OneDrive\Bureau\PFE_BCP\spring-boot-3-jwt-authentication\spring-boot-3-jwt-authentication\src\main\java\com\example\springboot3jwtauthentication\services\AuthenticationService.java
+C:\Users\badre\OneDrive\Bureau\PFE_BCP\spring-boot-3-jwt-authentication\spring-boot-3-jwt-authentication\src\main\java\com\example\springboot3jwtauthentication\SpringBoot3JwtAuthenticationApplication.java
+C:\Users\badre\OneDrive\Bureau\PFE_BCP\spring-boot-3-jwt-authentication\spring-boot-3-jwt-authentication\src\main\java\com\example\springboot3jwtauthentication\config\SeedDataConfig.java
+C:\Users\badre\OneDrive\Bureau\PFE_BCP\spring-boot-3-jwt-authentication\spring-boot-3-jwt-authentication\src\main\java\com\example\springboot3jwtauthentication\services\JwtService.java
+C:\Users\badre\OneDrive\Bureau\PFE_BCP\spring-boot-3-jwt-authentication\spring-boot-3-jwt-authentication\src\main\java\com\example\springboot3jwtauthentication\dto\JwtAuthenticationResponse.java
+C:\Users\badre\OneDrive\Bureau\PFE_BCP\spring-boot-3-jwt-authentication\spring-boot-3-jwt-authentication\src\main\java\com\example\springboot3jwtauthentication\controllers\AuthenticationController.java
+C:\Users\badre\OneDrive\Bureau\PFE_BCP\spring-boot-3-jwt-authentication\spring-boot-3-jwt-authentication\src\main\java\com\example\springboot3jwtauthentication\config\TestConfig.java
+C:\Users\badre\OneDrive\Bureau\PFE_BCP\spring-boot-3-jwt-authentication\spring-boot-3-jwt-authentication\src\main\java\com\example\springboot3jwtauthentication\filters\JwtAuthenticationFilter.java
+C:\Users\badre\OneDrive\Bureau\PFE_BCP\spring-boot-3-jwt-authentication\spring-boot-3-jwt-authentication\src\main\java\com\example\springboot3jwtauthentication\models\Role.java
+C:\Users\badre\OneDrive\Bureau\PFE_BCP\spring-boot-3-jwt-authentication\spring-boot-3-jwt-authentication\src\main\java\com\example\springboot3jwtauthentication\services\UserService.java
+C:\Users\badre\OneDrive\Bureau\PFE_BCP\spring-boot-3-jwt-authentication\spring-boot-3-jwt-authentication\src\main\java\com\example\springboot3jwtauthentication\config\SecurityConfig.java
+C:\Users\badre\OneDrive\Bureau\PFE_BCP\spring-boot-3-jwt-authentication\spring-boot-3-jwt-authentication\src\main\java\com\example\springboot3jwtauthentication\controllers\TestController.java
+C:\Users\badre\OneDrive\Bureau\PFE_BCP\spring-boot-3-jwt-authentication\spring-boot-3-jwt-authentication\src\main\java\com\example\springboot3jwtauthentication\repositories\UserRepository.java
+C:\Users\badre\OneDrive\Bureau\PFE_BCP\spring-boot-3-jwt-authentication\spring-boot-3-jwt-authentication\src\main\java\com\example\springboot3jwtauthentication\dto\AddRessourceRequest.java
+C:\Users\badre\OneDrive\Bureau\PFE_BCP\spring-boot-3-jwt-authentication\spring-boot-3-jwt-authentication\src\main\java\com\example\springboot3jwtauthentication\config\PasswordConfig.java
